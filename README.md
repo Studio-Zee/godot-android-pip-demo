@@ -2,7 +2,7 @@
 
 Esse recurso é útil principalmente para jogos que não exigem interação constante, como idle games ou durante cutscenes.
 
-Caso queira testar, pode usar no _ready() que seria mais rápido ou _process() com um botão...
+Caso queira testar, pode usar no `_ready()` que seria mais rápido ou `_process()` com um botão...
 
 ```gdscript
 DisplayServer.pip_mode_set_auto_enter_on_background(true)
