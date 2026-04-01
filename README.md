@@ -6,6 +6,7 @@ Caso queira testar, pode usar no _ready() que seria mais rápido ou _process() c
 
 ```gdscript
 DisplayServer.pip_mode_set_auto_enter_on_background(true)
+```
 
 Demonstração baseada no projeto oficial da Godot:
 
